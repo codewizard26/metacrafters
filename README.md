@@ -15,8 +15,7 @@ can directly be used in remix editor
 ### Executing program
 
 * How to run the program
-Copy paste the code on the remix editor and click on deploy button
-The smart contract will be deployed and you can use mint and burn functions of the contract
+
 ```
 Copy paste the code on the remix editor and click on deploy button
 
